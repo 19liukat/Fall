@@ -10,6 +10,7 @@ namespace FallDestinations
             Console.WriteLine("Brookfield Central - Reena");
             Console.WriteLine("Brett - Brookfield Central");
             Console.WriteLine("Rajat-Brookfield Central");
+            Console.WriteLine("Katherine - Brookfield Central");
             Console.ReadKey();
            
         }
