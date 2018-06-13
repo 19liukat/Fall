@@ -11,6 +11,7 @@ namespace FallDestinations
             Console.WriteLine("Brett - Brookfield Central");
             Console.WriteLine("Rajat-Brookfield Central");
             Console.WriteLine("Katherine - Brookfield Central");
+			Console.WriteLine("Steve- UW Madison");
             Console.ReadKey();
            
         }
